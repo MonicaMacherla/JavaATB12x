@@ -5,6 +5,9 @@ public class Lab88_Examples3 {
         String s1="Java".substring(2);//va
         System.out.println(s1);
 
+        String s5="Java".substring(1,3);//va
+        System.out.println(s5);
+
         char[] s2="Java".toCharArray();
         System.out.println(s2);
 
